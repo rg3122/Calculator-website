@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+  
+    text-decoration-color: burlywood;
+}
+table {
+    margin: auto;
+}
+input{
+    font-size: 64px;
+    border:black 10px;
+    border-radius: 10px;
+   
+    
+}
+button{
+    font-size: 50px;
+    border-radius: 10px;
+    
+    width:120px;
+    height: 80px;
+    border:10px black;
+    background-color: burlywood;
+    
+}
+.calculator{
+    display: inline-block;
+}
